@@ -1,0 +1,18 @@
+{
+  "name": "guessing_game",
+  "version": "1.0.0",
+  "bin": {
+    "guessing_game": "./guesssing_game.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node guesssing_game.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
